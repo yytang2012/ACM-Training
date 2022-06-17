@@ -3,4 +3,4 @@ project(ACM_Training)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ACM_Training solved/poj_1000.cpp)
+add_executable(ACM_Training test/puyang/poj-1007.cpp)
